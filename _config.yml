@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal # Confirmed working theme
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
@@ -6,17 +6,8 @@ plugins:
 title: "Empowering Enterprises with Domain-Driven Design"
 description: "Bookmark this to keep an eye on my project updates!"
 include: ["_pages"]
-defaults:
-  - scope:
-      path: "_pages"
-    values:
-      layout: single
-      sidebar:
-        nav: "main"
-minimal_mistakes_skin: "default"  # Options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
 author:
   name: "Jan Honinckx"
   bio: "Domain-Driven Design Expert"
   location: "Belgium"
-  links:
 

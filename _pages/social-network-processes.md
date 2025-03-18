@@ -1,8 +1,7 @@
 ---
 title: "The Social Network Processes"
-permalink: /social-network-processes/
 layout: single
----title: "Social network processen"
+permalink: /social-network-processes/
 sidebar:
   nav: "main"
 ---

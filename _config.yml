@@ -3,3 +3,5 @@ theme: jekyll-theme-minimal
 title: Empowering Enterprises with Domain-Driven Design
  
 description: Bookmark this to keep an eye on my project updates!
+
+include: ["_pages"]

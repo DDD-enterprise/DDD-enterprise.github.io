@@ -27,3 +27,8 @@ defaults:
     values:
       layout: single
       author_profile: true  # Shows author sidebar
+author:
+  name: "Jan Honinckx"
+  bio: "Domain-Driven Design Expert"
+  location: "Belgium"
+  links:

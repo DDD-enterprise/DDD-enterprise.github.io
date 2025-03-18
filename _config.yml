@@ -6,9 +6,9 @@
 # theme: jekyll-theme-hacker
 # theme: jekyll-theme-leap-day
 # theme: jekyll-theme-merlot
-# theme: jekyll-theme-slate
-theme: jekyll-theme-tactile
-# theme: jekyll-theme-time-machine
+# theme: jekyll-theme-slate # nogal zwart en wit
+# theme: jekyll-theme-tactile # grijze achtergrond
+theme: jekyll-theme-time-machine
 
 plugins:
   - jekyll-remote-theme

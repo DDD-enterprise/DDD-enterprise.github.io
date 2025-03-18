@@ -1,32 +1,19 @@
-# Remove or comment out the old theme
-# theme: jekyll-theme-minimal
-
-# Add the Minimal Mistakes remote theme
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
-# Add necessary plugins
+theme: jekyll-theme-minimal # Confirmed working theme
 plugins:
-  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-archives
-  - jekyll-include-cache  # Required for Minimal Mistakes
-
-# Keep your existing settings
 title: "Empowering Enterprises with Domain-Driven Design"
 description: "Bookmark this to keep an eye on my project updates!"
 include: ["_pages"]
-
-# Minimal Mistakes specific settings
-minimal_mistakes_skin: "default"  # Options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
-
-# Site structure
 defaults:
   - scope:
       path: "_pages"
     values:
       layout: single
-      author_profile: true  # Shows author sidebar
+      sidebar:
+        nav: "main"
+minimal_mistakes_skin: "default"  # Options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
 author:
   name: "Jan Honinckx"
   bio: "Domain-Driven Design Expert"

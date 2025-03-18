@@ -1,4 +1,6 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes"
+
 
 title: Empowering Enterprises with Domain-Driven Design
  

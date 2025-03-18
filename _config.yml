@@ -17,4 +17,5 @@ defaults:
       layout: single
       sidebar:
         nav: "main"
+        
 

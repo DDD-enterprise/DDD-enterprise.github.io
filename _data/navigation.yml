@@ -2,4 +2,4 @@ main:
   - title: "Home"
     url: /
   - title: "The social network processes"
-    url: /social-network-processes/
+    url: /social-network-processes.md

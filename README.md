@@ -1,7 +1,9 @@
 # 
 Bringing Domain Driven Design to the enterprise context
 
-This site has got the intention to document the process of starting at the highest level business process.
+This site has got the intention to document the Domain Driven design process.
+
+Starting at the highest level business process.
 
 Document the necessary application interactions for each of the business process steps.
 

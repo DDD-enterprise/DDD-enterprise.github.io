@@ -1,4 +1,14 @@
-theme: jekyll-theme-cayman  # Or another GitHub default theme
+# theme: jekyll-theme-cayman  # Or another GitHub default theme
+theme: jekyll-theme-primer
+# theme: jekyll-theme-minimal
+# theme: jekyll-theme-midnight
+# theme: jekyll-theme-dinky
+# theme: jekyll-theme-hacker
+# theme: jekyll-theme-leap-day
+# theme: jekyll-theme-merlot
+# theme: jekyll-theme-slate
+# theme: jekyll-theme-tactile
+# theme: jekyll-theme-time-machine
 
 plugins:
   - jekyll-remote-theme

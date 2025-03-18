@@ -1,5 +1,7 @@
 title: "Social network processen"
+
 permalink: /social network processes/
+
 layout: single
 sidebar:
   nav: "main"

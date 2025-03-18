@@ -7,4 +7,4 @@ Document the necessary application interactions for each of the business process
 
 Provide source-code for vital components needed to build the applications in this enterprise context.
 
-Evolve towards a source available social network application
+Slowly evolve towards a source available social network application, which is EU-legislation compliant.

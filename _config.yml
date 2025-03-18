@@ -1,17 +1,6 @@
-# theme: jekyll-theme-cayman  # Or another GitHub default theme
-# theme: jekyll-theme-primer
-theme: jekyll-theme-minimal
-# theme: jekyll-theme-midnight
-# theme: jekyll-theme-dinky
-# theme: jekyll-theme-hacker
-# theme: jekyll-theme-leap-day
-# theme: jekyll-theme-merlot
-# theme: jekyll-theme-slate # nogal zwart en wit
-# theme: jekyll-theme-tactile # grijze achtergrond
-# theme: jekyll-theme-time-machine # niet mooi op GSM
+theme: jekyll-theme-minimal # Confirmed working theme
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-archives

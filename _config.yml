@@ -1,8 +1,9 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 # remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0" 
 theme: null
-# remote_theme: "mmistakes/minimal-mistakes@4.24.0" 
 
+# Forces sidebar to be enabled
 minimal_mistakes_skin: "default"
 sidebar:
   nav: "main"
@@ -15,12 +16,19 @@ plugins:
   - jekyll-paginate
   - jekyll-archives
 
-title: Empowering Enterprises with Domain-Driven Design
- 
-description: Bookmark this to keep an eye on my project updates!
+
+# Site settings
+title: "Empowering Enterprises with Domain-Driven Design"
+description: "Bookmark this to keep an eye on my project updates!"
 
 include: ["_pages"]
 
+# Sidebar config
+sidebar:
+  nav: "main"
+  search: true
+
+# Default settings for pages
 defaults:
   - scope:
       path: "_pages"
@@ -28,8 +36,6 @@ defaults:
       layout: single
       sidebar:
         nav: "main"
-sass:
-  style: compressed
 
 exclude:
   - Gemfile

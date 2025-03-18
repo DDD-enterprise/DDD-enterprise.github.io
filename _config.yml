@@ -1,5 +1,5 @@
-# theme: jekyll-theme-minimal
-remote_theme: "mmistakes/minimal-mistakes"
+theme: jekyll-theme-minimal
+# remote_theme: "mmistakes/minimal-mistakes"
 # remote_theme: "mmistakes/minimal-mistakes@4.24.0" 
 
 plugins:
@@ -20,5 +20,5 @@ defaults:
       path: "_pages"
     values:
       layout: single
-      sidebar:
-        nav: "main"
+    sidebar:
+      nav: "main"

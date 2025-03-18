@@ -12,14 +12,15 @@ description: "Bookmark this to keep an eye on my project updates!"
 
 include: ["_pages"]
 
+# Sidebar Configuration  
+sidebar:
+  nav: "main"
+  search: true
+
 defaults:
   - scope:
-      path: ""
+      path: "_pages"
     values:
       layout: single
       sidebar:
         nav: "main"
-
-# Sidebar Configuration
-sidebar:
-  nav: "main"

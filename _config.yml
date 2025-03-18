@@ -20,5 +20,5 @@ defaults:
       path: "_pages"
     values:
       layout: single
-    sidebar:
-      nav: "main"
+      sidebar:
+        nav: "main"

@@ -1,6 +1,12 @@
 #theme: jekyll-theme-minimal
 remote_theme: "mmistakes/minimal-mistakes"
 
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-archives
 
 title: Empowering Enterprises with Domain-Driven Design
  

@@ -1,5 +1,6 @@
 # theme: jekyll-theme-minimal
 # remote_theme: "mmistakes/minimal-mistakes"
+theme: null
 remote_theme: "mmistakes/minimal-mistakes@4.24.0" 
 
 minimal_mistakes_skin: "default"
@@ -27,3 +28,14 @@ defaults:
       layout: single
       sidebar:
         nav: "main"
+sass:
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle
+  - vendor/cache
+  - vendor/gems
+  - vendor/ruby

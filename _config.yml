@@ -11,6 +11,9 @@ title: "Empowering Enterprises with Domain-Driven Design"
 description: "Bookmark this to keep an eye on my project updates!"
 
 include: ["_pages"]
+exclude:
+  - Gemfile
+  - Gemfile.lock
 
 # Sidebar Configuration  
 sidebar:
@@ -24,3 +27,6 @@ defaults:
       layout: single
       sidebar:
         nav: "main"
+
+jekyll-remote-theme:
+  verbose: true

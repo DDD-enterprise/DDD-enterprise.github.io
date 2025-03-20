@@ -174,7 +174,10 @@ Does this look good to you, or do you need any adjustments?
 
 
 ### **Viral Distribution by Social Network**  
-"Viral distribution" refers to how a platform's users naturally spread content, attracting new users without direct marketing efforts. Below is a breakdown of how each social network enables viral distribution:  
+Viral distribution" refers to how a platform's users naturally spread content, attracting new users without direct marketing efforts. Below is a breakdown of how each social network enables viral distribution:  
+
+Peter Thiel made the following quote about viral behaviour of software:
+“A product is viral if its core functionality encourages users to invite their friends to become users too. This is how Facebook and PayPal both grew quickly: every time someone shares with a friend or makes a payment, they naturally invite more and more people into the network. This isn’t just cheap—it’s fast, too.” 
 
 | Social Network | Viral Distribution Mechanism |
 |---------------|-----------------------------|

@@ -116,3 +116,44 @@ From this extensive list of business models, we can attempt to identify a common
 | The Viber Business Model Canvas     | ✔                      |              | ✔                  | ✔                |                      |
 | The LinkedIn Business Model Canvas  | ✔                      | ✔            | ✔                  | ✔                |                      |
 
+## Channels
+
+| Channels                              | Mobile App | Website | Email | Social Media | Partnerships | Physical Presence |
+|--------------------------------------|-----------|---------|-------|--------------|--------------|------------------|
+| The Facebook Business Model Canvas  | ✔         | ✔       | ✔     | ✔            | ✔            |                  |
+| The Twitter Business Model Canvas   | ✔         | ✔       | ✔     | ✔            |              |                  |
+| The Google Business Model Canvas    | ✔         | ✔       | ✔     | ✔            | ✔            |                  |
+| The Telegram Business Model Canvas  | ✔         | ✔       |       | ✔            |              |                  |
+| The WhatsApp Business Model Canvas  | ✔         |         |       | ✔            |              |                  |
+| The Instagram Business Model Canvas | ✔         | ✔       | ✔     | ✔            | ✔            |                  |
+| The Slack Business Model Canvas     | ✔         | ✔       | ✔     | ✔            | ✔            |                  |
+| The Viber Business Model Canvas     | ✔         | ✔       |       | ✔            |              |                  |
+| The LinkedIn Business Model Canvas  | ✔         | ✔       | ✔     | ✔            | ✔            |                  |
+
+## Customer Segments
+
+| Customer Segments                      | Individual Users | Businesses | Enterprises | Content Creators | Advertisers | Developers |
+|-----------------------------------------|------------------|------------|-------------|------------------|-------------|------------|
+| The Facebook Business Model Canvas     | ✔                | ✔          |             | ✔                | ✔           | ✔          |
+| The Twitter Business Model Canvas      | ✔                | ✔          |             | ✔                | ✔           | ✔          |
+| The Google Business Model Canvas       | ✔                | ✔          | ✔           | ✔                | ✔           | ✔          |
+| The Telegram Business Model Canvas     | ✔                | ✔          |             |                  |             | ✔          |
+| The WhatsApp Business Model Canvas     | ✔                | ✔          |             |                  |             |            |
+| The Instagram Business Model Canvas    | ✔                | ✔          |             | ✔                | ✔           |            |
+| The Slack Business Model Canvas        | ✔                | ✔          | ✔           |                  |             | ✔          |
+| The Viber Business Model Canvas        | ✔                | ✔          |             |                  |             | ✔          |
+| The LinkedIn Business Model Canvas     | ✔                | ✔          | ✔           | ✔                | ✔           | ✔          |
+
+## Revenue Streams
+
+| Revenue Streams                        | Advertising | Subscription | Freemium | Transaction Fees | Data Monetization | Partnerships |
+|-----------------------------------------|------------|-------------|---------|------------------|-------------------|--------------|
+| The Facebook Business Model Canvas     | ✔          |             | ✔       |                  | ✔                 | ✔            |
+| The Twitter Business Model Canvas      | ✔          | ✔           | ✔       |                  | ✔                 | ✔            |
+| The Google Business Model Canvas       | ✔          | ✔           | ✔       | ✔                | ✔                 | ✔            |
+| The Telegram Business Model Canvas     |            | ✔           | ✔       | ✔                |                   | ✔            |
+| The WhatsApp Business Model Canvas     |            |             | ✔       |                  | ✔                 | ✔            |
+| The Instagram Business Model Canvas    | ✔          |             | ✔       |                  | ✔                 | ✔            |
+| The Slack Business Model Canvas        |            | ✔           | ✔       | ✔                |                   | ✔            |
+| The Viber Business Model Canvas        | ✔          | ✔           | ✔       |                  |                   | ✔            |
+| The LinkedIn Business Model Canvas     | ✔          | ✔           | ✔       | ✔                | ✔                 | ✔            |

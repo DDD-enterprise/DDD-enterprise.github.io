@@ -171,3 +171,22 @@ Does this look good to you, or do you need any adjustments?
 | Viber      | ✔          | ✔           | ✔       |                  |                   | ✔            |
 | LinkedIn      | ✔          | ✔           | ✔       | ✔                | ✔                 | ✔            |
 | TikTok      | ✔          | ✔           | ✔       | ✔                | ✔                 | ✔            |
+
+
+### **Viral Distribution by Social Network**  
+"Viral distribution" refers to how a platform's users naturally spread content, attracting new users without direct marketing efforts. Below is a breakdown of how each social network enables viral distribution:  
+
+| Social Network | Viral Distribution Mechanism |
+|---------------|-----------------------------|
+| **Facebook** | Shares, tags, and comments boost visibility; algorithmic feeds prioritize engaging content, enabling organic spread. |
+| **Twitter (X)** | Retweets, quote tweets, trending hashtags, and virality-driven engagement amplify reach. |
+| **Google** | YouTube (a Google product) leverages recommendation algorithms; Google Search prioritizes popular content. |
+| **Telegram** | Public channels, group shares, and forwarded messages allow rapid content spread among users. |
+| **WhatsApp** | End-to-end encrypted message forwarding in group chats enables viral content sharing. |
+| **Instagram** | Reels, stories, and Explore page amplify trending content; influencer reposts drive visibility. |
+| **Slack** | Word-of-mouth and team invites promote adoption within organizations rather than external virality. |
+| **Viber** | Message forwarding and public communities drive viral content within private groups. |
+| **LinkedIn** | Viral posts gain traction through likes, comments, and reshares; engagement with industry leaders boosts reach. |
+| **TikTok** | The "For You Page" (FYP) algorithm rewards engaging content with massive organic reach, making it one of the most viral platforms. Content produced on TicTok triggers the installation of the TicToc app|
+
+Would you like a more detailed analysis on a specific network? 🚀

@@ -192,4 +192,4 @@ Peter Thiel made the following quote about viral behaviour of software:
 | **LinkedIn** | Viral posts gain traction through likes, comments, and reshares; engagement with industry leaders boosts reach. |
 | **TikTok** | The "For You Page" (FYP) algorithm rewards engaging content with massive organic reach, making it one of the most viral platforms. Content produced on TicTok triggers the installation of the TicToc app|
 
-Would you like a more detailed analysis on a specific network? 🚀
+

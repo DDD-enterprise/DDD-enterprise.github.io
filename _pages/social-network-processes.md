@@ -93,7 +93,6 @@ From this extensive list of business models, we can attempt to identify a common
 
 ## Value proposition
 
-
 | Value Proposition | Social Networking | Communication | Advertising Platform | Productivity Tools | Business Networking | Privacy & Security |
 |------------------|-------------------|--------------|---------------------|-------------------|-------------------|------------------|
 | Facebook        | ✔                 | ✔            | ✔                   |                   |                   |                  |
@@ -136,7 +135,6 @@ From this extensive list of business models, we can attempt to identify a common
 | Viber       | ✔         | ✔       |       | ✔            |              |                  |
 | LinkedIn    | ✔         | ✔       | ✔     | ✔            | ✔            |                  |
 
-
 ## Customer Segments
 
 | Customer Segments | Individual Users | Businesses | Enterprises | Content Creators | Advertisers | Developers |
@@ -150,7 +148,6 @@ From this extensive list of business models, we can attempt to identify a common
 | Slack        | ✔                | ✔          | ✔           |                  |             | ✔          |
 | Viber        | ✔                | ✔          |             |                  |             | ✔          |
 | LinkedIn        | ✔                | ✔          | ✔           | ✔                | ✔           | ✔          |
-
 
 ## Revenue Streams
 

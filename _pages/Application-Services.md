@@ -1,6 +1,6 @@
 ---
 layout: default
 title: "Application Services"
-permalink: /Application-services/
+permalink: /Application-Services/
 ---
 # Welcome to the Application services

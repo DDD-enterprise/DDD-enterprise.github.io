@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Social Network Processes"
-permalink: /social-network-processes/
+permalink: /Social-Network-Processes/
 ---
 # Welcome to the social network processes
 

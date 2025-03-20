@@ -33,7 +33,7 @@ From this extensive list of business models, we can attempt to identify a common
 
 ## Business Partners
 
-| Business Model Canvas                  | Parent Company     | Users | Corporates | Marketing Partners |
+| Business Partners                  | Parent Company     | Users | Corporates | Marketing Partners |
 |-----------------------------------------|--------------------|-------|------------|--------------------|
 | The Facebook Business Model Canvas     | Meta              | ✔     | ✔          | ✔                  |
 | The Twitter Business Model Canvas      | X (formerly Twitter) | ✔     | ✔          | ✔                  |
@@ -45,7 +45,7 @@ From this extensive list of business models, we can attempt to identify a common
 | The Viber Business Model Canvas        | Rakuten          | ✔     |            |                    |
 | The LinkedIn Business Model Canvas     | Microsoft        | ✔     | ✔          | ✔                  |
 
-
+## 
 
 
 

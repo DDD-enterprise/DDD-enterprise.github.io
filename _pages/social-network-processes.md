@@ -33,6 +33,17 @@ From this extensive list of business models, we can attempt to identify a common
 
 ## Business Partners
 
+| Business Model Canvas                  | Users | Corporates | Marketing Partners |
+|-----------------------------------------|-------|------------|--------------------|
+| The Facebook Business Model Canvas     |       |            |                    |
+| The Twitter Business Model Canvas      |       |            |                    |
+| The Google Business Model Canvas       |       |            |                    |
+| The Telegram Business Model Canvas     |       |            |                    |
+| The WhatsApp Business Model Canvas     |       |            |                    |
+| The Instagram Business Model Canvas    |       |            |                    |
+| The Slack Business Model Canvas        |       |            |                    |
+| The Viber Business Model Canvas        |       |            |                    |
+| The LinkedIn Business Model Canvas     |       |            |                    |
 
 
 

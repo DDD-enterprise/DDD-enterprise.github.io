@@ -116,4 +116,90 @@ Facebook (Meta) **monetizes user data primarily through targeted advertising**, 
 
 📌 **Final Verdict**: Facebook’s data monetization **violates several GDPR principles**, and ongoing lawsuits & fines suggest **it has yet to fully comply**.  
 
+## Twitter
+### **Twitter (X) and GDPR Compliance in Data Monetization**  
+
+Twitter (now **X**, owned by Elon Musk) relies heavily on **advertising revenue** and **data monetization** but has faced **GDPR challenges** regarding data privacy, tracking, and consent.  
+
+Here’s how Twitter’s data monetization aligns (or conflicts) with **GDPR regulations**:  
+
+---
+
+## **1. Does Twitter Obtain Valid User Consent?**  
+✅ **Partially Compliant**  
+
+- Twitter **asks for consent** for personalized ads and tracking.  
+- However, GDPR requires that **consent must be freely given, specific, and unambiguous**.  
+- Twitter’s **default settings favor tracking**, making opt-out difficult.  
+
+🔴 **Potential Violation**:  
+- In some cases, Twitter **tracks users even after they leave the platform**.  
+- The European Data Protection Board (EDPB) has warned about Twitter’s **unclear opt-in/opt-out processes**.  
+
+---
+
+## **2. Does Twitter Limit Data Collection?**  
+🔴 **Not Fully Compliant**  
+
+Twitter collects:  
+- **User tweets, DMs, and engagement data** (likes, retweets, follows).  
+- **Device & location data** (IP address, mobile device ID).  
+- **Browsing behavior** (tracks users outside Twitter via cookies & embedded tweets).  
+
+**GDPR Issue:**  
+- **Data Minimization Principle**: GDPR requires companies to **collect only necessary data**.  
+- Twitter **tracks users even when they don’t interact with Twitter directly** (e.g., through embedded tweets).  
+
+**Example Violation:**  
+- **2023**: The Irish Data Protection Commission (DPC) **investigated** Twitter for tracking **non-users** via Twitter embeds without consent.  
+
+---
+
+## **3. Does Twitter Allow Users to Control Their Data?**  
+✅ **Compliant (In Theory), But Hard in Practice**  
+
+- Twitter offers **data download & deletion options**.  
+- Users can **adjust ad personalization settings**.  
+- However, GDPR requires **an easy opt-out**, and Twitter’s privacy settings are **not intuitive**.  
+
+**Example Violation:**  
+- **2020**: Twitter was fined **€450,000** by the Irish DPC for **failing to notify users of a data breach** within GDPR’s **72-hour limit**.  
+
+---
+
+## **4. Does Twitter Sell Data to Third Parties?**  
+🔴 **Not Directly, But Data is Shared for Ads & AI**  
+
+- Twitter **doesn’t sell user data** but **sells access to its data analytics tools**.  
+- **Advertisers can target users based on behavior**.  
+- **AI Training Concerns**: Under Elon Musk, Twitter has been linked to **training AI models using user data**, raising **GDPR concerns** about user consent.  
+
+**Example Violation:**  
+- **2019**: Twitter admitted to **using user emails for ad targeting without consent**, violating GDPR.  
+
+---
+
+## **5. Does Twitter Transfer User Data Outside the EU?**  
+🔴 **Partially Non-Compliant**  
+
+- Twitter’s data is **stored in US servers**, but GDPR requires that **EU user data must stay protected**.  
+- In **2023**, the EU ordered stricter checks on **how Twitter transfers user data to the US**.  
+
+---
+
+## **Conclusion: Is Twitter’s Data Monetization GDPR-Compliant?**  
+🚨 **Mostly Non-Compliant (Legal Risks Exist)** 🚨  
+
+| GDPR Requirement        | Twitter Compliance? |  
+|------------------------|--------------------|  
+| **Freely given user consent** | ❌ (Default settings favor tracking, opt-out is difficult) |  
+| **Data minimization** | ❌ (Collects more data than needed, including external tracking) |  
+| **Transparency & control** | ⚠️ (Options exist but are hard to access) |  
+| **No unauthorized third-party access** | ⚠️ (Data is used for ads & AI models, raising concerns) |  
+| **No unauthorized data transfers outside the EU** | ❌ (Ongoing EU investigations) |  
+
+📌 **Final Verdict**:  
+Twitter **has GDPR compliance gaps**, especially in **data collection, tracking, and AI usage**. It has faced fines and investigations, and **future regulatory scrutiny is expected**.  
+
+
 

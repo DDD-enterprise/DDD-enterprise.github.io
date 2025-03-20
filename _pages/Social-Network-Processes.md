@@ -29,7 +29,7 @@ A first internet search gives us a lot of knowledge:
 
 [The linkedin Business Model Canvas](https://businessmodelanalyst.com/linkedin-business-model/ "Linkedin Business Model Analysis")
 
-[The TikTok Business Model Canvas](https://businessmodelanalyst.com/tiktok-business-model/ "TikTok Business Model Analysis")**
+[The TikTok Business Model Canvas](https://businessmodelanalyst.com/tiktok-business-model/ "TikTok Business Model Analysis")
 
 From this extensive list of business models, we can attempt to identify a common denominator.
 

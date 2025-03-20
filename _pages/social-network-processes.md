@@ -33,17 +33,18 @@ From this extensive list of business models, we can attempt to identify a common
 
 ## Business Partners
 
-| Business Partners &nbsp;&nbsp;&nbsp;&nbsp;                     | Parent Company       | Users | Corporates | Marketing Partners |
-|-----------------------------------------|----------------------|-------|------------|--------------------|
-| The Facebook Business Model Canvas     | Meta                 | ✔     | ✔          | ✔                  |
-| The Twitter Business Model Canvas      | X (formerly Twitter) | ✔     | ✔          | ✔                  |
-| The Google Business Model Canvas       | Alphabet             | ✔     | ✔          | ✔                  |
-| The Telegram Business Model Canvas     | Telegram FZ LLC      | ✔     |            |                    |
-| The WhatsApp Business Model Canvas     | Meta                 | ✔     |            |                    |
-| The Instagram Business Model Canvas    | Meta                 | ✔     | ✔          | ✔                  |
-| The Slack Business Model Canvas        | Salesforce           | ✔     | ✔          |                    |
-| The Viber Business Model Canvas        | Rakuten              | ✔     |            |                    |
-| The LinkedIn Business Model Canvas     | Microsoft            | ✔     | ✔          | ✔                  |
+| Business Partners | Parent Company       | Users | Corporates | Marketing Partners |
+|-------------------|----------------------|-------|------------|--------------------|
+| Facebook         | Meta                 | ✔     | ✔          | ✔                  |
+| Twitter         | X (formerly Twitter)  | ✔     | ✔          | ✔                  |
+| Google          | Alphabet             | ✔     | ✔          | ✔                  |
+| Telegram        | Telegram FZ LLC      | ✔     |            |                    |
+| WhatsApp        | Meta                 | ✔     |            |                    |
+| Instagram       | Meta                 | ✔     | ✔          | ✔                  |
+| Slack          | Salesforce           | ✔     | ✔          |                    |
+| Viber          | Rakuten              | ✔     |            |                    |
+| LinkedIn       | Microsoft            | ✔     | ✔          | ✔                  |
+
 
 
 ## Key activities

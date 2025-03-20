@@ -27,6 +27,11 @@ A first internet search gives us a lot of knowledge:
 
 [The Viber Business Model Canvas](https://vizologi.com/business-strategy-canvas/viber-business-model-canvas/ "Viber's Business Model Analysis")
 
+From this extensive list of business models, we can attempt to identify a common denominator.
+
+## Business Partners
+
+
 
 
 

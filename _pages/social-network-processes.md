@@ -49,17 +49,17 @@ From this extensive list of business models, we can attempt to identify a common
 
 ## Key activities
 
-| Key Activities                        | Social Networking | Advertising | Messaging | Cloud Services | Business Solutions | Professional Networking |
-|---------------------------------------|-------------------|-------------|-----------|----------------|---------------------|-------------------------|
-| The Facebook Business Model Canvas   | ✔                 | ✔           |           |                |                     |                         |
-| The Twitter Business Model Canvas    | ✔                 | ✔           |           |                |                     |                         |
-| The Google Business Model Canvas     |                   | ✔           |           | ✔              |                     |                         |
-| The Telegram Business Model Canvas   |                   |             | ✔         |                |                     |                         |
-| The WhatsApp Business Model Canvas   |                   |             | ✔         |                |                     |                         |
-| The Instagram Business Model Canvas  | ✔                 | ✔           |           |                |                     |                         |
-| The Slack Business Model Canvas      |                   |             |           |                | ✔                   |                         |
-| The Viber Business Model Canvas      |                   |             | ✔         |                | ✔                   |                         |
-| The LinkedIn Business Model Canvas   |                   | ✔           |           |                |                     | ✔                       |
+| Key Activities | Social Networking | Advertising | Messaging | Cloud Services | Business Solutions | Professional Networking |
+|---------------|-------------------|-------------|-----------|----------------|---------------------|-------------------------|
+| Facebook     | ✔                 | ✔           |           |                |                     |                         |
+| Twitter      | ✔                 | ✔           |           |                |                     |                         |
+| Google       |                   | ✔           |           | ✔              |                     |                         |
+| Telegram     |                   |             | ✔         |                |                     |                         |
+| WhatsApp     |                   |             | ✔         |                |                     |                         |
+| Instagram    | ✔                 | ✔           |           |                |                     |                         |
+| Slack        |                   |             |           |                | ✔                   |                         |
+| Viber        |                   |             | ✔         |                | ✔                   |                         |
+| LinkedIn     |                   | ✔           |           |                |                     | ✔                       |
 
 ## Key Resources
 
@@ -75,7 +75,6 @@ From this extensive list of business models, we can attempt to identify a common
 | Viber        |                   |             | ✔         |                | ✔                   |                         |
 | LinkedIn     |                   | ✔           |           |                |                     | ✔                       |
 
-
 ## Cost Structure
 
 | Cost Structure  | Server Costs | Marketing | R&D | Personnel | Compliance & Legal | Infrastructure Maintenance |
@@ -89,7 +88,6 @@ From this extensive list of business models, we can attempt to identify a common
 | Slack        | ✔           | ✔         | ✔  | ✔         | ✔                  | ✔                         |
 | Viber        | ✔           |           | ✔  | ✔         |                    | ✔                         |
 | LinkedIn     | ✔           | ✔         | ✔  | ✔         | ✔                  | ✔                         |
-
 
 ## Value proposition
 
@@ -105,7 +103,6 @@ From this extensive list of business models, we can attempt to identify a common
 | Viber         |                   | ✔            |                     |                   |                   | ✔                |
 | LinkedIn      | ✔                 | ✔            | ✔                   |                   | ✔                 |                  |
 
-
 ## Customer Relationship
 
 | Customer Relationship | Personalized Engagement | Self-Service | Community Building | Customer Support | AI-driven Interaction |
@@ -119,7 +116,6 @@ From this extensive list of business models, we can attempt to identify a common
 | Slack            | ✔                      | ✔            | ✔                  | ✔                |                      |
 | Viber            | ✔                      |              | ✔                  | ✔                |                      |
 | LinkedIn         | ✔                      | ✔            | ✔                  | ✔                |                      |
-
 
 ## Channels
 

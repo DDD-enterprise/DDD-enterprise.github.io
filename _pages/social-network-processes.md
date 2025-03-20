@@ -33,7 +33,7 @@ From this extensive list of business models, we can attempt to identify a common
 
 ## Business Partners
 
-| Business Partners                      | Parent Company       | Users | Corporates | Marketing Partners |
+| Business Partners &nbsp;&nbsp;&nbsp;&nbsp;                     | Parent Company       | Users | Corporates | Marketing Partners |
 |-----------------------------------------|----------------------|-------|------------|--------------------|
 | The Facebook Business Model Canvas     | Meta                 | ✔     | ✔          | ✔                  |
 | The Twitter Business Model Canvas      | X (formerly Twitter) | ✔     | ✔          | ✔                  |

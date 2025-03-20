@@ -77,6 +77,7 @@ From this extensive list of business models, we can attempt to identify a common
 
 
 ## Cost Structure
+
 | Cost Structure  | Server Costs | Marketing | R&D | Personnel | Compliance & Legal | Infrastructure Maintenance |
 |---------------|-------------|-----------|----|-----------|--------------------|---------------------------|
 | Facebook     | ✔           | ✔         | ✔  | ✔         | ✔                  | ✔                         |

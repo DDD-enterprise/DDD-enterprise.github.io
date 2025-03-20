@@ -33,7 +33,7 @@ A first internet search gives us a lot of knowledge:
 
 From this extensive list of business models, we can attempt to identify a common denominator.
 
-## Business Partners
+## Business Partners  
 
 | Business Partners | Parent Company       | Users | Corporates | Marketing Partners |
 |-------------------|----------------------|-------|------------|--------------------|
@@ -46,10 +46,9 @@ From this extensive list of business models, we can attempt to identify a common
 | Slack          | Salesforce           | ✔     | ✔          |                    |
 | Viber          | Rakuten              | ✔     |            |                    |
 | LinkedIn       | Microsoft            | ✔     | ✔          | ✔                  |
+| TikTok         | ByteDance            | ✔     | ✔          | ✔                  |
 
-
-
-## Key activities
+## Key Activities  
 
 | Key Activities | Social Networking | Advertising | Messaging | Cloud Services | Business Solutions | Professional Networking |
 |---------------|-------------------|-------------|-----------|----------------|---------------------|-------------------------|
@@ -62,24 +61,30 @@ From this extensive list of business models, we can attempt to identify a common
 | Slack        |                   |             |           |                | ✔                   |                         |
 | Viber        |                   |             | ✔         |                | ✔                   |                         |
 | LinkedIn     |                   | ✔           |           |                |                     | ✔                       |
+| TikTok       | ✔                 | ✔           |           |                |                     |                         |
 
-## Key Resources
+### Key Resources  
 
-| Key Activities  | Social Networking | Advertising | Messaging | Cloud Services | Business Solutions | Professional Networking |
-|----------------|-------------------|-------------|-----------|----------------|---------------------|-------------------------|
-| Facebook      | ✔                 | ✔           |           |                |                     |                         |
-| Twitter       | ✔                 | ✔           |           |                |                     |                         |
-| Google        |                   | ✔           |           | ✔              |                     |                         |
-| Telegram      |                   |             | ✔         |                |                     |                         |
-| WhatsApp      |                   |             | ✔         |                |                     |                         |
-| Instagram     | ✔                 | ✔           |           |                |                     |                         |
-| Slack        |                   |             |           |                | ✔                   |                         |
-| Viber        |                   |             | ✔         |                | ✔                   |                         |
-| LinkedIn     |                   | ✔           |           |                |                     | ✔                       |
+| Key Resources      | Infrastructure | Data | Brand | Technology | Human Capital | Partnerships |  
+|--------------------|---------------|------|-------|------------|--------------|--------------|  
+| Facebook          | ✔             | ✔    | ✔     | ✔          | ✔            | ✔            |  
+| Twitter          | ✔             | ✔    | ✔     | ✔          | ✔            |              |  
+| Google           | ✔             | ✔    | ✔     | ✔          | ✔            | ✔            |  
+| Telegram         | ✔             | ✔    |       | ✔          | ✔            |              |  
+| WhatsApp         | ✔             | ✔    |       | ✔          | ✔            |              |  
+| Instagram        | ✔             | ✔    | ✔     | ✔          | ✔            | ✔            |  
+| Slack           | ✔             | ✔    |       | ✔          | ✔            |              |  
+| Viber           | ✔             | ✔    |       | ✔          | ✔            |              |  
+| LinkedIn        | ✔             | ✔    | ✔     | ✔          | ✔            | ✔            |  
+| TikTok       | ✔             | ✔    | ✔     | ✔          | ✔            | ✔            |  
+
+Let me know if you need any refinements! 🚀
+
+Does this look good to you, or do you need any adjustments?
 
 ## Cost Structure
 
-| Cost Structure  | Server Costs | Marketing | R&D | Personnel | Compliance & Legal | Infrastructure Maintenance |
+| Cost Structure | Server Costs | Marketing | R&D | Personnel | Compliance & Legal | Infrastructure Maintenance |
 |---------------|-------------|-----------|----|-----------|--------------------|---------------------------|
 | Facebook     | ✔           | ✔         | ✔  | ✔         | ✔                  | ✔                         |
 | Twitter      | ✔           | ✔         | ✔  | ✔         | ✔                  | ✔                         |
@@ -90,8 +95,9 @@ From this extensive list of business models, we can attempt to identify a common
 | Slack        | ✔           | ✔         | ✔  | ✔         | ✔                  | ✔                         |
 | Viber        | ✔           |           | ✔  | ✔         |                    | ✔                         |
 | LinkedIn     | ✔           | ✔         | ✔  | ✔         | ✔                  | ✔                         |
+| TikTok   | ✔           | ✔         | ✔  | ✔         | ✔                  | ✔                         |
 
-## Value proposition
+## Value Proposition
 
 | Value Proposition | Social Networking | Communication | Advertising Platform | Productivity Tools | Business Networking | Privacy & Security |
 |------------------|-------------------|--------------|---------------------|-------------------|-------------------|------------------|
@@ -104,6 +110,7 @@ From this extensive list of business models, we can attempt to identify a common
 | Slack         |                   | ✔            |                     | ✔                 |                   |                  |
 | Viber         |                   | ✔            |                     |                   |                   | ✔                |
 | LinkedIn      | ✔                 | ✔            | ✔                   |                   | ✔                 |                  |
+| TikTok    | ✔                 | ✔            | ✔                   |                   |                   |                  |
 
 ## Customer Relationship
 
@@ -118,20 +125,22 @@ From this extensive list of business models, we can attempt to identify a common
 | Slack            | ✔                      | ✔            | ✔                  | ✔                |                      |
 | Viber            | ✔                      |              | ✔                  | ✔                |                      |
 | LinkedIn         | ✔                      | ✔            | ✔                  | ✔                |                      |
+| TikTok       | ✔                      | ✔            | ✔                  | ✔                | ✔                    |
 
 ## Channels
 
-| Channels     | Mobile App | Website | Email | Social Media | Partnerships | Physical Presence |
-|-------------|-----------|---------|-------|--------------|--------------|------------------|
-| Facebook    | ✔         | ✔       | ✔     | ✔            | ✔            |                  |
-| Twitter     | ✔         | ✔       | ✔     | ✔            |              |                  |
-| Google      | ✔         | ✔       | ✔     | ✔            | ✔            |                  |
-| Telegram    | ✔         | ✔       |       | ✔            |              |                  |
-| WhatsApp    | ✔         |         |       | ✔            |              |                  |
-| Instagram   | ✔         | ✔       | ✔     | ✔            | ✔            |                  |
-| Slack       | ✔         | ✔       | ✔     | ✔            | ✔            |                  |
-| Viber       | ✔         | ✔       |       | ✔            |              |                  |
-| LinkedIn    | ✔         | ✔       | ✔     | ✔            | ✔            |                  |
+| Channels   | Mobile App | Website | Email | Social Media | Partnerships | Physical Presence |
+|-----------|-----------|---------|-------|--------------|--------------|------------------|
+| Facebook  | ✔         | ✔       | ✔     | ✔            | ✔            |                  |
+| Twitter   | ✔         | ✔       | ✔     | ✔            |              |                  |
+| Google    | ✔         | ✔       | ✔     | ✔            | ✔            |                  |
+| Telegram  | ✔         | ✔       |       | ✔            |              |                  |
+| WhatsApp  | ✔         |         |       | ✔            |              |                  |
+| Instagram | ✔         | ✔       | ✔     | ✔            | ✔            |                  |
+| Slack     | ✔         | ✔       | ✔     | ✔            | ✔            |                  |
+| Viber     | ✔         | ✔       |       | ✔            |              |                  |
+| LinkedIn  | ✔         | ✔       | ✔     | ✔            | ✔            |                  |
+| TikTok | ✔         | ✔       |       | ✔            | ✔            |                  |
 
 ## Customer Segments
 
@@ -146,8 +155,9 @@ From this extensive list of business models, we can attempt to identify a common
 | Slack        | ✔                | ✔          | ✔           |                  |             | ✔          |
 | Viber        | ✔                | ✔          |             |                  |             | ✔          |
 | LinkedIn        | ✔                | ✔          | ✔           | ✔                | ✔           | ✔          |
+| TikTok        | ✔                | ✔          |             | ✔                | ✔           |            |
 
-## Revenue Streams
+## Revenue Streams  
 
 | Revenue Streams | Advertising | Subscription | Freemium | Transaction Fees | Data Monetization | Partnerships |
 |----------------|------------|-------------|---------|------------------|-------------------|--------------|
@@ -160,4 +170,4 @@ From this extensive list of business models, we can attempt to identify a common
 | Slack      |            | ✔           | ✔       | ✔                |                   | ✔            |
 | Viber      | ✔          | ✔           | ✔       |                  |                   | ✔            |
 | LinkedIn      | ✔          | ✔           | ✔       | ✔                | ✔                 | ✔            |
-
+| TikTok      | ✔          | ✔           | ✔       | ✔                | ✔                 | ✔            |

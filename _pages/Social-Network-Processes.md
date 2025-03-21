@@ -172,6 +172,9 @@ Does this look good to you, or do you need any adjustments?
 | LinkedIn      | ✔          | ✔           | ✔       | ✔                | ✔                 | ✔            |
 | TikTok      | ✔          | ✔           | ✔       | ✔                | ✔                 | ✔            |
 
+[Read about Data Monetization](/Data-Monetisation)
+
+
 
 ### **Viral Distribution by Social Network**  
 Viral distribution" refers to how a platform's users naturally spread content, attracting new users without direct marketing efforts. Below is a breakdown of how each social network enables viral distribution:  

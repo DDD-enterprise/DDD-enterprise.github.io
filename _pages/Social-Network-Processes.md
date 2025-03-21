@@ -62,6 +62,8 @@ From this extensive list of business models, we can attempt to identify a common
 | Viber        |                   |             | ✔         |                | ✔                   |                         |
 | LinkedIn     |                   | ✔           |           |                |                     | ✔                       |
 | TikTok       | ✔                 | ✔           |           |                |                     |                         |
+[Read about Social Networking](/Social-Networking)
+
 
 ### Key Resources  
 

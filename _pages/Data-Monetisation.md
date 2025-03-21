@@ -2,6 +2,7 @@ Data monetisation
 
 Data monetization under **GDPR (General Data Protection Regulation)** is legal **only if** it complies with the regulation’s strict requirements. GDPR does not outright ban data monetization, but it **restricts** how personal data can be processed, shared, and sold.  
 
+
 ### **Key GDPR Requirements for Legal Data Monetization**  
 
 1. **User Consent (Article 6 & 7)**  
@@ -36,6 +37,24 @@ Data monetization under **GDPR (General Data Protection Regulation)** is legal *
    - Users **cannot** opt out of data sharing.  
    - Data is sold to **third parties** without transparency.  
    - Data is misused beyond its original **declared purpose**.  
+
+### **GDPR Compliance and Data Monetization Overview**  
+
+| Platform   | Data Monetization Methods | Explicit User Consent | Data Minimization | User Control & Transparency | Cross-Border Data Transfers | GDPR Fines & Issues |  
+|------------|---------------------------|----------------------|------------------|---------------------------|----------------------------|---------------------|  
+| **Facebook**  | Advertising, behavioral tracking, partnerships, data sales | ❌ Often unclear, default tracking enabled | ❌ Extensive tracking, including third-party data | ⚠️ Some controls, but complex settings | ✅ Uses SCCs, but still scrutinized | ✅ Multiple GDPR fines (€1.2B for data transfers) |  
+| **Twitter (X)**  | Ads, promoted content, API data sales | ⚠️ Some consent options, but tracking is on by default | ❌ Collects engagement, device data, and browsing history | ⚠️ Limited controls for users | ✅ Uses SCCs, but policy is vague | ⚠️ Previously fined (€450K for data breach transparency) |  
+| **Google**  | Ads, search history tracking, AI training, third-party sales | ⚠️ Some options, but complex opt-out process | ❌ Collects vast amounts of personal and location data | ⚠️ Some transparency, but users struggle to delete all data | ✅ Transfers data globally with SCCs | ✅ Fined (€50M for lack of transparency) |  
+| **Telegram**  | No ads (yet), premium subscriptions | ✅ No tracking-based ads, minimal data collection | ✅ Collects minimal personal data, no tracking cookies | ✅ Users can fully delete accounts | ✅ Data stored in EU jurisdictions, no China transfers | ⚠️ No major GDPR fines yet, but encryption policies questioned |  
+| **WhatsApp**  | Ads, business messaging, metadata tracking | ❌ Default data sharing with Facebook | ❌ Collects metadata, phone contacts, and behavior | ⚠️ Limited transparency on metadata use | ✅ Uses SCCs, but criticized for internal Facebook transfers | ✅ Fined (€225M for transparency violations) |  
+| **Instagram**  | Ads, influencer partnerships, metadata tracking | ❌ Default tracking enabled, consent unclear | ❌ Extensive tracking of user interactions | ⚠️ Users can opt out of some tracking, but not all | ✅ Uses SCCs, but shares data with Facebook | ✅ Fined (€405M for children’s data violations) |  
+| **Slack**  | Subscription-based, workplace analytics | ✅ No ads, user data protected by design | ✅ Minimal tracking, except for analytics | ✅ Users and admins have full data control | ✅ Uses SCCs for global customers | ⚠️ No major GDPR fines yet |  
+| **Viber**  | Ads, business messaging, metadata tracking | ✅ Users can opt out of ads | ✅ Limited tracking, no behavioral ads | ✅ Strong privacy settings, full message encryption | ✅ Hosted in EU data centers | ⚠️ No major GDPR fines yet |  
+| **LinkedIn**  | Ads, job postings, business subscriptions | ❌ Tracks user behavior for ads by default | ❌ Extensive tracking of engagement and messages | ⚠️ Limited transparency on data retention | ✅ Uses SCCs but shares data with Microsoft | ✅ Fined (€14M for tracking without consent) |  
+| **TikTok**  | Ads, AI-driven recommendations, influencer monetization | ❌ Consent practices questioned, defaults to tracking | ❌ Extensive tracking, including biometric data | ⚠️ Some control, but unclear data deletion policies | ❌ Transfers data to China, a major GDPR issue | ✅ Multiple GDPR fines (€345M for children’s data violations) |  
+
+---
+
 
 ## Facebook
 ### **Facebook (Meta) and GDPR Compliance in Data Monetization**  
@@ -955,22 +974,7 @@ Here’s a **complete GDPR compliance table** summarizing TikTok and other major
 
 ---
 
-### **GDPR Compliance and Data Monetization Overview**  
 
-| Platform   | Data Monetization Methods | Explicit User Consent | Data Minimization | User Control & Transparency | Cross-Border Data Transfers | GDPR Fines & Issues |  
-|------------|---------------------------|----------------------|------------------|---------------------------|----------------------------|---------------------|  
-| **Facebook**  | Advertising, behavioral tracking, partnerships, data sales | ❌ Often unclear, default tracking enabled | ❌ Extensive tracking, including third-party data | ⚠️ Some controls, but complex settings | ✅ Uses SCCs, but still scrutinized | ✅ Multiple GDPR fines (€1.2B for data transfers) |  
-| **Twitter (X)**  | Ads, promoted content, API data sales | ⚠️ Some consent options, but tracking is on by default | ❌ Collects engagement, device data, and browsing history | ⚠️ Limited controls for users | ✅ Uses SCCs, but policy is vague | ⚠️ Previously fined (€450K for data breach transparency) |  
-| **Google**  | Ads, search history tracking, AI training, third-party sales | ⚠️ Some options, but complex opt-out process | ❌ Collects vast amounts of personal and location data | ⚠️ Some transparency, but users struggle to delete all data | ✅ Transfers data globally with SCCs | ✅ Fined (€50M for lack of transparency) |  
-| **Telegram**  | No ads (yet), premium subscriptions | ✅ No tracking-based ads, minimal data collection | ✅ Collects minimal personal data, no tracking cookies | ✅ Users can fully delete accounts | ✅ Data stored in EU jurisdictions, no China transfers | ⚠️ No major GDPR fines yet, but encryption policies questioned |  
-| **WhatsApp**  | Ads, business messaging, metadata tracking | ❌ Default data sharing with Facebook | ❌ Collects metadata, phone contacts, and behavior | ⚠️ Limited transparency on metadata use | ✅ Uses SCCs, but criticized for internal Facebook transfers | ✅ Fined (€225M for transparency violations) |  
-| **Instagram**  | Ads, influencer partnerships, metadata tracking | ❌ Default tracking enabled, consent unclear | ❌ Extensive tracking of user interactions | ⚠️ Users can opt out of some tracking, but not all | ✅ Uses SCCs, but shares data with Facebook | ✅ Fined (€405M for children’s data violations) |  
-| **Slack**  | Subscription-based, workplace analytics | ✅ No ads, user data protected by design | ✅ Minimal tracking, except for analytics | ✅ Users and admins have full data control | ✅ Uses SCCs for global customers | ⚠️ No major GDPR fines yet |  
-| **Viber**  | Ads, business messaging, metadata tracking | ✅ Users can opt out of ads | ✅ Limited tracking, no behavioral ads | ✅ Strong privacy settings, full message encryption | ✅ Hosted in EU data centers | ⚠️ No major GDPR fines yet |  
-| **LinkedIn**  | Ads, job postings, business subscriptions | ❌ Tracks user behavior for ads by default | ❌ Extensive tracking of engagement and messages | ⚠️ Limited transparency on data retention | ✅ Uses SCCs but shares data with Microsoft | ✅ Fined (€14M for tracking without consent) |  
-| **TikTok**  | Ads, AI-driven recommendations, influencer monetization | ❌ Consent practices questioned, defaults to tracking | ❌ Extensive tracking, including biometric data | ⚠️ Some control, but unclear data deletion policies | ❌ Transfers data to China, a major GDPR issue | ✅ Multiple GDPR fines (€345M for children’s data violations) |  
-
----
 
 ### **Key Takeaways**  
 - **Best GDPR Compliance:** ✅ **Telegram, Slack, and Viber** (minimal data collection, strong user controls).  

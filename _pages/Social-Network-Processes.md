@@ -64,7 +64,7 @@ From this extensive list of business models, we can attempt to identify a common
 | TikTok       | ✔                 | ✔           |           |                |                     |                         |
 
 [Read about Social Networking](/Social-Networking)
-
+[Read about Social Advertising](/Advertising)
 
 ### Key Resources  
 

@@ -1,4 +1,7 @@
-Data monetisation
+---
+title: Data Monetisation
+permalink: /Data-Monetisation/
+---
 
 Data monetization under **GDPR (General Data Protection Regulation)** is legal **only if** it complies with the regulation’s strict requirements. GDPR does not outright ban data monetization, but it **restricts** how personal data can be processed, shared, and sold.  
 

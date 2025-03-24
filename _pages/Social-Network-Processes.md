@@ -67,6 +67,8 @@ From this extensive list of business models, we can attempt to identify a common
 
 [Read about Advertising on social networks](/Advertising)
 
+[Read about Messaging on social networks](/Messaging)
+
 ### Key Resources  
 
 | Key Resources      | Infrastructure | Data | Brand | Technology | Human Capital | Partnerships |  

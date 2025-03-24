@@ -71,6 +71,8 @@ From this extensive list of business models, we can attempt to identify a common
 
 [Read about Cloud Services on social networks](/Cloud-Services)
 
+[Read about Business Solutions on social networks](/Business-Solutions)
+
 ### Key Resources  
 
 | Key Resources      | Infrastructure | Data | Brand | Technology | Human Capital | Partnerships |  

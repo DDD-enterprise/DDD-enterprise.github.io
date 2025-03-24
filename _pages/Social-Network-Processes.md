@@ -90,6 +90,8 @@ From this extensive list of business models, we can attempt to identify a common
 | LinkedIn        | ✔             | ✔    | ✔     | ✔          | ✔            | ✔            |  
 | TikTok       | ✔             | ✔    | ✔     | ✔          | ✔            | ✔            |  
 
+[Read about Infrastructure on social networks](/Infrastructure)
+
 
 
 ## Cost Structure

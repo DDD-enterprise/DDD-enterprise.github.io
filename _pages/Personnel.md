@@ -31,4 +31,8 @@ permalink: /Personnel/
 💡 **Trend:** Companies are **downsizing traditional roles** but **expanding AI & automation teams**. Remote work policies vary, with **Twitter enforcing in-office presence**, while **Telegram & Slack remain remote-friendly**. 🚀  
 ![image](https://github.com/user-attachments/assets/9b5d11c5-cc6b-42eb-a664-f4d13e082c5b)
 
+![image](https://github.com/user-attachments/assets/bc2f18b2-e6bd-4ac1-ae70-779c1c54c7e7)
+
+![image](https://github.com/user-attachments/assets/6b15703d-2e47-4af1-9a85-f9244c94d179)
+
 

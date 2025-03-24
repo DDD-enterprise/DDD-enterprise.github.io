@@ -92,6 +92,8 @@ From this extensive list of business models, we can attempt to identify a common
 
 [Read about Infrastructure on social networks](/Infrastructure)
 
+[Read about Data on social networks](/Data)
+
 
 
 ## Cost Structure

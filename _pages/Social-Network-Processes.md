@@ -202,6 +202,18 @@ From this extensive list of business models, we can attempt to identify a common
 | LinkedIn  | ✔         | ✔       | ✔     | ✔            | ✔            |                  |
 | TikTok | ✔         | ✔       |       | ✔            | ✔            |                  |
 
+[Read about Mobile App](/Mobile-App)
+
+[Read about Website on social networks](/Website)
+
+[Read about Email on social networks](/Email)
+
+[Read about Social Media on social networks](/Social-Media)
+
+[Read about Partnerships on social networks](/Partnerships)
+
+[Read about Physical Presence](/Physical-Presence)
+
 ## Customer Segments
 
 | Customer Segments | Individual Users | Businesses | Enterprises | Content Creators | Advertisers | Developers |
@@ -216,6 +228,20 @@ From this extensive list of business models, we can attempt to identify a common
 | Viber        | ✔                | ✔          |             |                  |             | ✔          |
 | LinkedIn        | ✔                | ✔          | ✔           | ✔                | ✔           | ✔          |
 | TikTok        | ✔                | ✔          |             | ✔                | ✔           |            |
+
+
+[Read about Individual Users on social networks](/Individual-Users)
+
+[Read about Business on social networks](/Business)
+
+[Read about Enterprises on social networks](/Enterprises)
+
+[Read about Content Creators on social networks](/Content-Creators)
+
+[Read about Advertisers on social networks](/Advertisers)
+
+[Read about Developers on social networks](/Developers)
+
 
 ## Revenue Streams  
 
@@ -232,8 +258,19 @@ From this extensive list of business models, we can attempt to identify a common
 | LinkedIn      | ✔          | ✔           | ✔       | ✔                | ✔                 | ✔            |
 | TikTok      | ✔          | ✔           | ✔       | ✔                | ✔                 | ✔            |
 
+[Read about Advertising on social networks](/Advertising)
+
+[Read about Subscription on social networks](/Subscription)
+
+[Read about Freemium on social networks](/Freemium)
+
+[Read about Transaction Fees on social networks](/Transaction-Fees)
+
 [Read about Data Monetization](/Data-Monetisation)
 
+[Read about Advertising on social networks](/Advertising)
+
+[Read about Partnerships on social networks](/Partnerships)
 
 
 ### **Viral Distribution by Social Network**  

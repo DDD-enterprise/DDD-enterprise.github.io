@@ -155,7 +155,7 @@ From this extensive list of business models, we can attempt to identify a common
 
 [Read about Advertising Platform on social networks](/Advertising-Platform)
 
-[Read about Productivity Tools on social networks](/Productivity-Tools)
+[Read about Productivity on social networks](/Productivity)
 
 [Read about Business Networking on social networks](/Business-Networking)
 
@@ -175,6 +175,17 @@ From this extensive list of business models, we can attempt to identify a common
 | Viber            | ✔                      |              | ✔                  | ✔                |                      |
 | LinkedIn         | ✔                      | ✔            | ✔                  | ✔                |                      |
 | TikTok       | ✔                      | ✔            | ✔                  | ✔                | ✔                    |
+
+[Read about Personalized Engagement on social networks](/Personalized-Engagement)
+
+[Read about Self Service on social networks](/Self-Service)
+
+[Read about Community Building on social networks](/Community-Building)
+
+[Read about Customer Support on social networks](/Customer-Support)
+
+[Read about AI-driven Interaction](/AI-driven-Interaction)
+
 
 ## Channels
 

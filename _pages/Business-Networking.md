@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Business Networking"
-permalink: /Business Networking/
+permalink: /Business-Networking/
 ---
 
 ### **📊 Business Networking Comparison Across Social Networks**  

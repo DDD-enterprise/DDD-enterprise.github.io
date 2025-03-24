@@ -73,6 +73,8 @@ From this extensive list of business models, we can attempt to identify a common
 
 [Read about Business Solutions on social networks](/Business-Solutions)
 
+[Read about Professional Networking on social networks](/Professional-Networking)
+
 ### Key Resources  
 
 | Key Resources      | Infrastructure | Data | Brand | Technology | Human Capital | Partnerships |  

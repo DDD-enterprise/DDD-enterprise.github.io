@@ -118,6 +118,10 @@ From this extensive list of business models, we can attempt to identify a common
 | LinkedIn     | ✔           | ✔         | ✔  | ✔         | ✔                  | ✔                         |
 | TikTok   | ✔           | ✔         | ✔  | ✔         | ✔                  | ✔                         |
 
+
+
+[Read about Server Costs on social networks](/Server-Costs)
+
 ## Value Proposition
 
 | Value Proposition | Social Networking | Communication | Advertising Platform | Productivity Tools | Business Networking | Privacy & Security |

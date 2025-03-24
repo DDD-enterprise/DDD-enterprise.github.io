@@ -94,6 +94,13 @@ From this extensive list of business models, we can attempt to identify a common
 
 [Read about Data on social networks](/Data)
 
+[Read about Brand on social networks](/Brand)
+
+[Read about Technology on social networks](/Technology)
+
+[Read about Human Capital on social networks](/Human-Capital)
+
+[Read about Partnerships on social networks](/Partnerships)
 
 
 ## Cost Structure

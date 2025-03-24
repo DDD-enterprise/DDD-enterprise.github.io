@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: "Business Solutions"
+permalink: /Business-Solutions/
+---
 
 ### **Comparison Table: Business Solutions Offered by Social Networks**  
 

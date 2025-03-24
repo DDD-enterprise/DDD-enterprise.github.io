@@ -122,15 +122,15 @@ From this extensive list of business models, we can attempt to identify a common
 
 [Read about Server Costs on social networks](/Server-Costs)
 
-[Read about Server Costs on social networks](/Marketing)
+[Read about Marketing on social networks](/Marketing)
 
-[Read about Server Costs on social networks](/Research-And-Dev)
+[Read about R&D on social networks](/Research-And-Dev)
 
-[Read about Server Costs on social networks](/Personnel)
+[Read about Personnel on social networks](/Personnel)
 
-[Read about Server Costs on social networks](/Compliance-And-Legal)
+[Read about Compliance and Legal on social networks](/Compliance-And-Legal)
 
-[Read about Server Costs on social networks](/Infrastructure-Maintenance)
+[Read about Infrastructure Maintenance on social networks](/Infrastructure-Maintenance)
 
 
 ## Value Proposition

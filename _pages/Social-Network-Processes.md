@@ -122,6 +122,17 @@ From this extensive list of business models, we can attempt to identify a common
 
 [Read about Server Costs on social networks](/Server-Costs)
 
+[Read about Server Costs on social networks](/Marketing)
+
+[Read about Server Costs on social networks](/Research-And-Dev)
+
+[Read about Server Costs on social networks](/Personnel)
+
+[Read about Server Costs on social networks](/Compliance-And-Legal)
+
+[Read about Server Costs on social networks](/Infrastructure-Maintenance)
+
+
 ## Value Proposition
 
 | Value Proposition | Social Networking | Communication | Advertising Platform | Productivity Tools | Business Networking | Privacy & Security |

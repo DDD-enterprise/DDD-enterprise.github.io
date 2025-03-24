@@ -148,6 +148,19 @@ From this extensive list of business models, we can attempt to identify a common
 | LinkedIn      | ✔                 | ✔            | ✔                   |                   | ✔                 |                  |
 | TikTok    | ✔                 | ✔            | ✔                   |                   |                   |                  |
 
+
+[Read about Social Networking on social networks](/Social-Networking)
+
+[Read about Communication on social networks](/Communication)
+
+[Read about Advertising Platform on social networks](/Advertising-Platform)
+
+[Read about Productivity Tools on social networks](/Productivity-Tools)
+
+[Read about Business Networking on social networks](/Business-Networking)
+
+[Read about Privacy & Security on social networks](/Privacy-Security)
+
 ## Customer Relationship
 
 | Customer Relationship | Personalized Engagement | Self-Service | Community Building | Customer Support | AI-driven Interaction |

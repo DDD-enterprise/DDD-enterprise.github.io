@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Brand"
+permalink: /Brand/
+---
+# Welcome to the Brand pages
+
 Here’s a **comparison table of what "Brand" means** for each social network:  
 
 | **Social Network** | **Brand Identity** | **Target Audience** | **Core Value Proposition** | **Brand Reputation** | **Monetization Strategy** | **Brand Evolution** |

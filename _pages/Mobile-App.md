@@ -1,9 +1,9 @@
-
 ---
 layout: default
 title: "Mobile App"
 permalink: /Mobile-App/
 ---
+
 # Welcome to the Mobile App
 
 ### **📊 Mobile App Comparison Across Social Networks**  

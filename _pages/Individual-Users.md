@@ -1,9 +1,9 @@
-
 ---
 layout: default
 title: "Individual Users"
 permalink: /Individual-Users/
 ---
+
 # Welcome to the Individual Users
 
 Here's a comparison table of how **Individual Users** are served or catered to by different social networks:

@@ -2,7 +2,7 @@
 ---
 layout: default
 title: "Customer Support"
-permalink: /Customer-Supportg/
+permalink: /Customer-Support/
 ---
 # Welcome to Customer Support
 

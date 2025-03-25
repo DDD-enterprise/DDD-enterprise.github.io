@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Research and Development"
-permalink: /Research-And-Development/
+permalink: /Research-And-Dev/
 ---
 # Welcome to the R&D
 

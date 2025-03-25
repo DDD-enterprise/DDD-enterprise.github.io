@@ -1,9 +1,9 @@
-Transaction-Fees
 ---
 layout: default
 title: "Transaction Fees"
 permalink: /Transaction-Fees/
 ---
+
 # Welcome to the Transaction Fees
 
 Here’s a comparison table of what **transaction fees** mean for the social networks:

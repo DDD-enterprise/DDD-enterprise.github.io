@@ -3,6 +3,7 @@ layout: default
 title: "Business"
 permalink: /Business/
 ---
+
 # Welcome to the Business
 
 Here's a comparison table of how **Business** is served or catered to by different social networks:

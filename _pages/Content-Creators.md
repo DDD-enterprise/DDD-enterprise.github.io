@@ -1,9 +1,9 @@
-Content-Creators
 ---
 layout: default
 title: "Content Creators"
 permalink: /Content-Creators/
 ---
+
 # Welcome to the Content-Creators
 
 Here's a comparison table on how **content creators** are served or catered to by different social networks:

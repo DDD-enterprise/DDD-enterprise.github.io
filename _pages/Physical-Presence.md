@@ -1,9 +1,9 @@
-Physical-Presence
 ---
 layout: default
 title: "Physical Presence"
 permalink: /Physical-Presence/
 ---
+
 # Welcome to the Physical Presence
 
 Here’s a comparison table that highlights how **Physical Presence** is handled by different social networks:

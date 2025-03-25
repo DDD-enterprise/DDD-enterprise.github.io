@@ -159,7 +159,7 @@ From this extensive list of business models, we can attempt to identify a common
 
 [Read about Business Networking on social networks](/Business-Networking)
 
-[Read about Privacy & Security on social networks](/Privacy-Security)
+[Read about Privacy & Security on social networks](/Privacy-And-Security)
 
 ## Customer Relationship
 

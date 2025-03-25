@@ -1,9 +1,9 @@
-Social-Media
 ---
 layout: default
 title: "Social Media"
 permalink: /Social-Media/
 ---
+
 # Welcome to Social Media
 
 ### **Social Media Features Comparison for Leading Social Networks**  

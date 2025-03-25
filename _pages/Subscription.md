@@ -1,9 +1,9 @@
-Subscription
 ---
 layout: default
 title: "Subscription"
 permalink: /Subscription/
 ---
+
 # Welcome to the Subscription
 
 Here is a comparison table of what **Subscription** means for different social networks:

@@ -35,22 +35,22 @@ By grouping the destination of the events a very condensed list of bound domains
 
 # Investigation of bound domains   
 Investigation of Bound domains for social enterprise companies:
-   a. Twitter/X
-   b. Facebook
-   c. TikTok
-   d. LinkedIn
-   e. Truth Social
-   f. Bluesky
-   g. Mastodon
-   h. Threads
-   i. Reddit
-   j. Discord
-   k. Substack
-   l. Pillowfort
-   m. Instagram
-   n. WhatsAPP
-   o. Telegram
-   p. Slack
+1. Twitter/X
+2. Facebook
+3. TikTok
+4. LinkedIn
+5. Truth Social
+6. Bluesky
+7. Mastodon
+8. Threads
+9. Reddit
+10. Discord
+11. Substack
+12. Pillowfort
+13. Instagram
+14. WhatsAPP
+15. Telegram
+16. Slack
 
 ## Twitter
 

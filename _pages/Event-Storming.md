@@ -15,9 +15,10 @@ In this case numerous Osterwalder diagrams were investigated for the
    b. Facebook
    c. TikTok
    d. LinkedIn
-   e. 
+   e. Truth Social
 
 
+# Truth Social
 
 
 # LinkedIn

@@ -7,19 +7,55 @@ permalink: /Event-Storming/
 Event storming is a very tedious and detailed work, which demands the involvement of many business and technical people.
 For reasons of clarity a summary of this work is at the top of this page.
 All the details can be found by reading this page starting from the bottom and progressing towards the top.
-1. Event analysis and enumeration:
-In this case numerous Osterwalder diagrams were investigated for the 
-2. distillation of Bound domains
-3. Investigation of Bound domains for social enterprise companies:
+Event analysis and enumeration:
+1. social media engagement
+2. Event Type
+3. Event Producer (User Action)
+4. Event Bus (Messaging System)
+5. Event Consumer (Backend Service)
+6. Outcome/Effect    
+In this case numerous Osterwalder diagrams were investigated. No less than 850 different possible events were identified
+
+# Bound domains
+By grouping the destination of the events a very condensed list of bound domains could be identified:
+1. Content Creation
+2. Engagement
+3. Messaging
+4. Identity & Profile
+5. Realtime Interaction
+6. Feed/Discovery
+7. Moderation
+8. Monetization
+9. Groups/Communities
+10. Voice/Video
+11. AI & Recommendation
+12. Federation
+13. Job/Career
+14. Newsletter/Blog
+
+# Investigation of bound domains   
+Investigation of Bound domains for social enterprise companies:
    a. Twitter/X
    b. Facebook
    c. TikTok
    d. LinkedIn
    e. Truth Social
+   f. 
 
 
 # Truth Social
-
+| Truth Social Feature             | Content Creation      | Engagement                 | Messaging          | Identity & Profile           | Realtime Interaction     | Feed/Discovery                | Moderation                    | Monetization   | Groups/Communities   | Voice/Video             | AI & Recommendation             | Federation   | Job/Career   | Newsletter/Blog            |
+|:---------------------------------|:----------------------|:---------------------------|:-------------------|:-----------------------------|:-------------------------|:------------------------------|:------------------------------|:---------------|:---------------------|:------------------------|:--------------------------------|:-------------|:-------------|:---------------------------|
+| Truths (Posts)                   | ✅ Core post format   | ✅ Likes, Reposts, Replies | ❌                 | ✅ Username & handle         | ☑️ Fast replies          | ✅ Main feed                  | ☑️ Content flags              | ❌             | ❌                   | ❌                      | ☑️ Basic relevance (time-based) | ❌           | ❌           | ☑️ Long-form truth         |
+| ReTruths                         | ☑️ Content remix      | ✅ Amplify & respond       | ❌                 | ☑️ Identity shown            | ❌                       | ✅ Drives visibility          | ❌                            | ❌             | ❌                   | ❌                      | ☑️ Light ranking bump           | ❌           | ❌           | ❌                         |
+| Replies                          | ☑️ Commentary on post | ✅ Conversation driver     | ❌                 | ☑️ Reply identity            | ☑️ Active discussions    | ☑️ Adds to engagement metrics | ☑️ Flagged replies            | ❌             | ❌                   | ❌                      | ☑️ Temporally ranked            | ❌           | ❌           | ❌                         |
+| Mentions & Tags                  | ☑️ Adds visibility    | ✅ Tagging peers           | ❌                 | ✅ Linked identity           | ☑️ Notifies in real-time | ☑️ Feed boost                 | ☑️ Abuse potential            | ❌             | ❌                   | ❌                      | ☑️ Boosts reach                 | ❌           | ❌           | ❌                         |
+| Profile & Bio                    | ❌                    | ☑️ Followers/Likes         | ❌                 | ✅ Strong identity component | ❌                       | ☑️ Public profile discovery   | ☑️ Reportable identity issues | ❌             | ❌                   | ❌                      | ☑️ Visible in feed logic        | ❌           | ❌           | ☑️ External links included |
+| Feed ("Truth Feed")              | ❌                    | ✅ Reaction stream         | ❌                 | ✅ Identity-linked           | ☑️ Dynamic refresh       | ✅ Core discovery path        | ☑️ Flag/report tools          | ❌             | ❌                   | ❌                      | ☑️ Chronological + relevance    | ❌           | ❌           | ❌                         |
+| Trending Topics                  | ❌                    | ✅ Public sentiment        | ❌                 | ❌                           | ☑️ Updated in real-time  | ✅ Drives discovery           | ☑️ Can be manipulated         | ❌             | ❌                   | ❌                      | ☑️ Algorithmic surfacing        | ❌           | ❌           | ❌                         |
+| Notifications                    | ❌                    | ☑️ User feedback loop      | ❌                 | ✅ Identity-specific         | ✅ Real-time triggers    | ☑️ Discovery via activity     | ☑️ Flag if spammy             | ❌             | ❌                   | ❌                      | ☑️ Ranking priority             | ❌           | ❌           | ❌                         |
+| Moderation Reports               | ❌                    | ❌                         | ❌                 | ☑️ Profile/reportable        | ❌                       | ❌                            | ✅ Community reporting        | ❌             | ❌                   | ❌                      | ❌                              | ❌           | ❌           | ❌                         |
+| Direct Messages (future/limited) | ❌                    | ☑️ Reactions planned       | ☑️ Peer-to-peer DM | ✅ Linked to user            | ☑️ Notification-driven   | ❌                            | ☑️ Spam control               | ❌             | ❌                   | ☑️ Attachments possible | ❌                              | ❌           | ❌           | ❌                         |
 
 # LinkedIn
 | LinkedIn Feature       | Content Creation            | Engagement                    | Messaging             | Identity & Profile        | Realtime Interaction      | Feed/Discovery              | Moderation                 | Monetization              | Groups/Communities        | Voice/Video           | AI & Recommendation            | Federation   | Job/Career                | Newsletter/Blog       |
@@ -83,21 +119,7 @@ In this case numerous Osterwalder diagrams were investigated for the
 | Newsletters (Revue)          | ✅ Long-form writing      | ☑️ Sub replies              | ❌                    | ✅ Author profile         | ❌                     | ☑️ Featured feed     | ❌                       | ✅ Paid options       | ❌                      | ❌                    | ☑️ Recommended by algo | ❌           | ❌             | ✅ Core feature       |
 | Hiring Feature (X Hiring)    | ❌                        | ❌                          | ❌                    | ✅ Company profile        | ❌                     | ✅ Talent discovery  | ❌                       | ✅ Paid tier          | ❌                      | ❌                    | ☑️ Job recommendations | ❌           | ✅ Core domain | ❌                    |
 
-# Bound domains:
-1. Content Creation
-2. Engagement
-3. Messaging
-4. Identity & Profile
-5. Realtime Interaction
-6. Feed/Discovery
-7. Moderation
-8. Monetization
-9. Groups/Communities
-10. Voice/Video
-11. AI & Recommendation
-12. Federation
-13. Job/Career
-14. Newsletter/Blog
+
 
 # Events distilled from Oserwalder diagrams
 | social media engagement                                   |Event Type                                | Event Producer (User Action)                                           | Event Bus (Messaging System)                 | Event Consumer (Backend Service)                     | Outcome/Effect                                                                                      |

@@ -318,7 +318,7 @@ Investigation of Bound domains for social enterprise companies:
 | User Profiles             | ✅ Bios, avatars, and external links                      | ☑️ Show follower/following counts            | ❌                                | ✅ Identity via handle, instance, metadata        | ☑️ Real-time profile updates                         | ☑️ Profile pages public/federated                   | ✅ Custom privacy settings                    | ❌                                | ☑️ Members in groups or rooms               | ❌                            | ❌                                          | ✅ Public & federated        | ❌                                | ☑️ Hosts long-form photo logs         |
 
 
-# Events distilled from Oserwalder diagrams
+# Events distilled from Osterwalder diagrams
 
 | social media engagement                                   |Event Type                                | Event Producer (User Action)                                           | Event Bus (Messaging System)                 | Event Consumer (Backend Service)                     | Outcome/Effect                                                                                      |
 |:----------------------------------------------------------|:-----------------------------------------|:-----------------------------------------------------------------------|:---------------------------------------------|:-----------------------------------------------------|:-----------------------------------------------------------------------------------------------|

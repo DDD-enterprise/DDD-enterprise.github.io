@@ -35,24 +35,25 @@ By grouping the destination of the events a very condensed list of bound domains
 
 # Investigation of bound domains   
 Investigation of Bound domains for social enterprise companies:
-1. Twitter/X
-2. Facebook
-3. TikTok
-4. LinkedIn
-5. Truth Social
-6. Bluesky
-7. Mastodon
-8. Threads
-9. Reddit
-10. Discord
-11. Substack
-12. Pillowfort
-13. Instagram
-14. WhatsAPP
-15. Telegram
-16. Slack
-17. Stocktwits
-18. Pixelfed
+1. Twitter/X  (American)
+2. Facebook  (American)
+3. TikTok (Chinese)
+4. LinkedIn  (American)
+5. Truth Social  (American)
+6. Bluesky  (American)
+7. Mastodon  (American)
+8. Threads  (American)
+9. Reddit  (American)
+10. Discord  (American)
+11. Substack  (American)
+12. Pillowfort  (American)
+13. Instagram  (American)
+14. WhatsAPP  (American)
+15. Telegram  (Russian open source)
+16. Slack  (American)
+17. Stocktwits  (American)
+18. Pixelfed (American)
+19. Signal (American open source)
 
 ## Twitter
 
@@ -301,6 +302,21 @@ Investigation of Bound domains for social enterprise companies:
 | Cashtags**                | ✅ Users tag posts with cashtags to associate content with specific stocks                       | ☑️ Cashtags enable aggregation of engagement around specific stocks                             | ❌ No messaging features tied to cashtags                                                               | ☑️ Cashtags link to user profiles engaging with specific stocks                                       | ✅ Real-time aggregation of posts using the same cashtag                                                    | ✅ Cashtag pages display all related posts and discussions                                            | ✅ Monitoring of cashtag usage for inappropriate content                                              | ❌ No monetization features directly tied to cashtags                                                      | ❌ No community features specific to cashtags                                                         | ❌ No voice or video features associated with cashtags                                                | ✅ Cashtag activity contributes to trending topics and recommendations                                     | ❌          | ❌ No job-related functionalities associated with cashtags                                          | ❌ No newsletter or blog features associated with cashtags                                            |
 | Video Content**           | ✅ Creation of original video content for financial discussions                                   | ✅ Users can engage with video content through likes and comments                                | ❌ No messaging features within video content                                                            | ✅ Video creators have profiles showcasing their content                                               | ✅ Live video events allow real-time interaction                                                             | ✅ Video content appears in user feeds and discovery sections                                         | ✅ Moderation of video content to ensure community guidelines are followed                           | ✅ Monetization through premium video content and events                                                   | ✅ Video events can be hosted within community "Rooms"                                                | ✅ Core feature with live streaming capabilities                                                      | ✅ Video content influences content recommendations                                                       | ❌          | ☑️ Video content can focus on career advice and industry insights                                   | ✅ Video series can be part of newsletters or blogs                                                  |
 | Advanced Search**         | ❌ No content creation features                                                                   | ❌ No engagement features                                                                         | ❌ No messaging features                                                                                | ❌ No profile features                                                                                 | ❌ No real-time interaction features                                                                          | ✅ Allows users to search and filter messages across the platform                                     | ❌ No moderation features                                                                               | ✅ Available to Stocktwits Plus subscribers as a premium feature                                            | ❌ No community features                                                                                | ❌ No voice or video features                                                                          | ✅ Enhances content discovery and personalization                                                         | ❌          | ❌ No job-related functionalities associated with advanced search                                   | ❌ No newsletter or blog features associated with advanced search                                     |
+
+## Signal
+
+| Signal Feature           | Content Creation                                         | Engagement                                 | Messaging                        | Identity & Profile                           | Realtime Interaction                        | Feed/Discovery                              | Moderation                                 | Monetization                              | Groups/Communities                        | Voice/Video                          | AI & Recommendation                    | Federation            | Job/Career                        | Newsletter/Blog                      |
+|--------------------------|----------------------------------------------------------|--------------------------------------------|-----------------------------------|-----------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|----------------------|-----------------------------------|--------------------------------------|
+| 1:1 Chats                | ✅ Text, voice, media, files, disappearing messages       | ✅ Emoji reactions, read receipts          | ✅ Encrypted 1:1 messaging         | ✅ Profile + optional username, phone optional | ✅ Real-time delivery, typing, read receipts | ❌ No feed or explore tab                  | ✅ Report/block, spam filters              | ❌ None                                    | ❌                                         | ✅ Voice & video calls                 | ❌ None                                  | ❌ Centralized         | ☑️ Used informally via contacts    | ❌                                    |
+| Group Chats              | ✅ Text/media + admin controls                           | ✅ Reactions, replies                      | ✅ Encrypted group messaging       | ✅ Group name/avatar, member roles            | ✅ Real-time sync and notifications          | ❌ No discovery, invite-only               | ✅ Admin tools, member control             | ❌ None                                    | ✅ Up to 1000 users                     | ✅ Group calls up to 50 people         | ❌ None                                  | ❌ Centralized         | ☑️ Community/career groups         | ❌                                    |
+| Stories (Status)         | ✅ Ephemeral text/image/video posts                      | ✅ Views, emoji reacts                     | ❌ No replies                      | ✅ Linked to profile                          | ✅ Posts and views real-time                 | ❌ Viewable only by contacts               | ✅ View limits and privacy                 | ❌ None                                    | ❌                                         | ✅ Short videos in stories           | ❌ None                                  | ❌ Centralized         | ❌                                  | ❌                                    |
+| Voice/Video Calls        | ❌ N/A                                                  | ✅ Call controls, reactions                | ✅ Core 1:1 or group calling       | ✅ Caller name/avatar                         | ✅ Real-time, secure                        | ❌ Direct only, not discoverable           | ✅ Call blocking, reporting               | ❌ None                                    | ✅ Used in groups and DMs              | ✅ HD encrypted calls                  | ❌ None                                  | ❌ Centralized         | ☑️ Interviews possible              | ❌                                    |
+| Call Links               | ❌ N/A                                                  | ✅ Shareable, joinable links              | ✅ One-click group joining         | ✅ Link tied to creator's identity            | ✅ Realtime join                            | ❌ Not promoted/discoverable              | ✅ Can restrict/revoke links              | ❌ None                                    | ✅ Works with groups                   | ✅ Video/audio access                 | ❌ None                                  | ❌ Centralized         | ❌                                  | ❌                                    |
+| Disappearing Messages    | ✅ Auto-delete from 30s to 4 weeks                        | ❌ No reactions unique to mode             | ✅ Works in all chat types         | ✅ Settings visible per user/chat             | ✅ Real-time removal after time elapses     | ❌ Not shown in any feed                   | ✅ Timer-based privacy enforcement         | ❌ None                                    | ✅ Works in group chats                | ❌                                     | ❌ None                                  | ❌ Centralized         | ❌                                  | ❌                                    |
+| Usernames                | ❌ N/A                                                  | ❌                                         | ✅ Messaging without phone number | ✅ Custom @username, hide number              | ✅ Used in all features                     | ❌ No search/discovery system             | ✅ Block/report per username              | ❌ None                                    | ✅ Used in all groups                  | ❌                                     | ❌ None                                  | ❌ Centralized         | ❌                                  | ❌                                    |
+| Media & Sticker Sharing  | ✅ Images, GIFs, stickers, files                          | ✅ Reactions to media                      | ✅ Shared in chats/groups          | ✅ Profile shown per media sent              | ✅ Media instant delivery                   | ❌ No algorithmic promotion               | ✅ File-type and size controls             | ❌ None                                    | ✅ Supported in groups                 | ✅ Audio/video + voice notes         | ❌ None                                  | ❌ Centralized         | ❌                                  | ❌                                    |
+| Blur Tool                | ✅ Blur faces or objects pre-send                         | ❌                                         | ✅ Used on photo shares            | ✅ Image links to user/profile               | ✅ Realtime edit while uploading            | ❌ N/A                                     | ✅ Enhances privacy                     | ❌ None                                    | ✅ Works with group content           | ❌                                     | ❌ None                                  | ❌ Centralized         | ❌                                  | ❌                                    |
+
 
 
 

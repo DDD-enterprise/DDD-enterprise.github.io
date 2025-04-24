@@ -43,7 +43,7 @@ Investigation of Bound domains for social enterprise companies:
    f. 
 
 
-# Truth Social
+## Truth Social
 | Truth Social Feature             | Content Creation      | Engagement                 | Messaging          | Identity & Profile           | Realtime Interaction     | Feed/Discovery                | Moderation                    | Monetization   | Groups/Communities   | Voice/Video             | AI & Recommendation             | Federation   | Job/Career   | Newsletter/Blog            |
 |:---------------------------------|:----------------------|:---------------------------|:-------------------|:-----------------------------|:-------------------------|:------------------------------|:------------------------------|:---------------|:---------------------|:------------------------|:--------------------------------|:-------------|:-------------|:---------------------------|
 | Truths (Posts)                   | ✅ Core post format   | ✅ Likes, Reposts, Replies | ❌                 | ✅ Username & handle         | ☑️ Fast replies          | ✅ Main feed                  | ☑️ Content flags              | ❌             | ❌                   | ❌                      | ☑️ Basic relevance (time-based) | ❌           | ❌           | ☑️ Long-form truth         |

@@ -57,7 +57,7 @@ Investigation of Bound domains for social enterprise companies:
 20. Vivino (Danish EU)
 21. Olvid (French)
 22. Skred (French)
-23. 
+23. Vivid (Japan)
 
 ## Twitter
 
